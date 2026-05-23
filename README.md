@@ -29,4 +29,19 @@ El resultado fue que con con un buen diseño de arquitectura de datos (Retrieval
 Agradezco al profesor de la cátedra por guiarnos en este aprendizaje que combinan la teoría con la práctica real.
 
 ![1](imagenes_TP1/1.png)
-
+![1](imagenes_TP1/2.png)
+![1](imagenes_TP1/3.png)
+![1](imagenes_TP1/4.png)
+![1](imagenes_TP1/5.png)
+![1](imagenes_TP1/6.png)
+![1](imagenes_TP1/7.png)
+![1](imagenes_TP1/8.png)
+![1](imagenes_TP1/9.png)
+![1](imagenes_TP1/10.png)
+![1](imagenes_TP1/11.png)
+![1](imagenes_TP1/12.png)
+![1](imagenes_TP1/13.png)
+![1](imagenes_TP1/14.png)
+![1](imagenes_TP1/15.png)
+![1](imagenes_TP1/16.png)
+![1](imagenes_TP1/17.png)

@@ -1,4 +1,4 @@
-# **Portafolio_02_Pipeline_RAG_Local_NLP**
+# **Portafolio_02_Pipeline_RAG_Local_NLP** (El backend/motor de IA: Embeddings, FAISS y Prompt Engineering)
 
 ## **¿Cómo potenciar un LLM local y pequeño para que no alucine?**
 
